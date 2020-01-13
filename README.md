@@ -1,4 +1,4 @@
-# FWF
+# FWF Fighting Without Fighting software
 Fighting Without Fighting project repository
 
 If you use this software, please quote us:<br>
