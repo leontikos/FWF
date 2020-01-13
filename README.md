@@ -3,7 +3,7 @@ The software can be used to analyse and visualise Tweeter, or other, data.
 
 If you use this software, please quote us:<br>
 Ciechanowski L., Jemielniak D., Gloor P. (forthcoming). TUTORIAL: AI Research Without Coding - The Art of Fighting Without Fighting.
-Journal of Business Research.
+*Journal of Business Research*.
 
 ---
 
